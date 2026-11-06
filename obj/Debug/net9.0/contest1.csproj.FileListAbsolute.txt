@@ -1,0 +1,14 @@
+/Users/iravasu/RiderProjects/contest1/contest1/bin/Debug/net9.0/contest1
+/Users/iravasu/RiderProjects/contest1/contest1/bin/Debug/net9.0/contest1.deps.json
+/Users/iravasu/RiderProjects/contest1/contest1/bin/Debug/net9.0/contest1.runtimeconfig.json
+/Users/iravasu/RiderProjects/contest1/contest1/bin/Debug/net9.0/contest1.dll
+/Users/iravasu/RiderProjects/contest1/contest1/bin/Debug/net9.0/contest1.pdb
+/Users/iravasu/RiderProjects/contest1/contest1/obj/Debug/net9.0/contest1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iravasu/RiderProjects/contest1/contest1/obj/Debug/net9.0/contest1.AssemblyInfoInputs.cache
+/Users/iravasu/RiderProjects/contest1/contest1/obj/Debug/net9.0/contest1.AssemblyInfo.cs
+/Users/iravasu/RiderProjects/contest1/contest1/obj/Debug/net9.0/contest1.csproj.CoreCompileInputs.cache
+/Users/iravasu/RiderProjects/contest1/contest1/obj/Debug/net9.0/contest1.dll
+/Users/iravasu/RiderProjects/contest1/contest1/obj/Debug/net9.0/refint/contest1.dll
+/Users/iravasu/RiderProjects/contest1/contest1/obj/Debug/net9.0/contest1.pdb
+/Users/iravasu/RiderProjects/contest1/contest1/obj/Debug/net9.0/contest1.genruntimeconfig.cache
+/Users/iravasu/RiderProjects/contest1/contest1/obj/Debug/net9.0/ref/contest1.dll
